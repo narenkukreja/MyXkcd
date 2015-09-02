@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group_1"
+        android:checkableBehavior="single">
+        <item
+
+            android:id="@+id/nav_comic"
+            android:checked="true"
+            android:icon="@drawable/ic_view_carousel_white_24dp"
+            android:title="@string/nav_comic_viewer">
+
+        </item>
+    </group>
+
+    <group
+        android:id="@+id/group_2"
+        android:checkableBehavior="single" >
+
+        <item
+            android:id="@+id/nav_about"
+            android:checkable="true"
+            android:icon="@drawable/ic_error_white_24dp"
+            android:title="@string/nav_about" />
+
+    </group>
+
+    <!--<item android:title="@string/nav_drawer_other">-->
+        <!--<menu>-->
+
+            <!--<item-->
+                <!--android:id="@+id/nav_settings"-->
+                <!--android:checkable="true"-->
+                <!--android:icon="@drawable/ic_settings_white_24dp"-->
+                <!--android:title="@string/nav_settings"/>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_about"-->
+                <!--android:checkable="true"-->
+                <!--android:icon="@drawable/ic_error_white_24dp"-->
+                <!--android:title="@string/nav_about" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+
+</menu>
