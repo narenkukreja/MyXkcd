@@ -1,7 +1,7 @@
 # MyXkcd
 
 
-MyXkcd is an open source comic reader for android thats interactive and easy to use!
+MyXkcd is an open source comic reader for Android thats interactive and easy to use!
 
 <img src="http://i.imgur.com/DGnSWZ8.png?1" width="216" height="384" />
 <img src="http://i.imgur.com/xCUZMMe.png?1" width="216" height="384" />
