@@ -16,7 +16,3 @@ MyXkcd is an open source comic reader for Android thats interactive and easy to 
 # Contact
 
 MyXkcd is developed and maintained by [Naren Kukreja](https://github.com/narenkukreja).
-
-# License
-
-MyXkcd is released under the **The GNU General Public License v3.0 (GPLv3)**.
