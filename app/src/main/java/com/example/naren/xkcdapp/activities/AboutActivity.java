@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
-import com.example.naren.xkcdapp.MainActivity;
+import com.example.naren.xkcdapp.ui.MainActivity;
 import com.example.naren.xkcdapp.R;
 
 public class AboutActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {

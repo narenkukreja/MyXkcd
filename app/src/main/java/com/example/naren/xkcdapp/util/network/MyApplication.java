@@ -1,4 +1,4 @@
-package com.example.naren.xkcdapp.network;
+package com.example.naren.xkcdapp.util.network;
 
 import android.app.Application;
 import android.content.Context;

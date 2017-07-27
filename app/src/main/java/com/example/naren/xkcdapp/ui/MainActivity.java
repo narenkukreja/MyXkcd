@@ -1,4 +1,4 @@
-package com.example.naren.xkcdapp;
+package com.example.naren.xkcdapp.ui;
 
 import android.content.Intent;
 import android.content.res.Configuration;
@@ -29,8 +29,9 @@ import com.android.volley.RequestQueue;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
+import com.example.naren.xkcdapp.R;
 import com.example.naren.xkcdapp.activities.AboutActivity;
-import com.example.naren.xkcdapp.network.VolleySingleton;
+import com.example.naren.xkcdapp.util.network.VolleySingleton;
 import com.example.naren.xkcdapp.model.Comic;
 import com.squareup.picasso.Picasso;
 
